@@ -1,0 +1,3 @@
+git branch #Wyświetlenie gałęzi
+git branch <nazwa> #Tworzenie <nazwa> gałęzi
+git checkout <nazwa> #Przełączenie się na gałąź <nazwa>
